@@ -1,0 +1,3 @@
+gitclass @ VCET
+today - AI hands on training
+lunch on class
